@@ -105,6 +105,9 @@ public class QtiCallConstants {
     /* Call fail code extra key name */
     public static final String EXTRAS_KEY_CALL_FAIL_EXTRA_CODE  = "CallFailExtraCode";
 
+    /* IMS sip error code received from network during call end */
+    public static final String EXTRAS_KEY_CALL_SIP_ERROR_CODE  = "SipErrorCode";
+
     /* Emergency service category extra key name */
     public static final String EXTRAS_KEY_EMERGENCY_SERVICE_CATEGORY  = "EmergencyServiceCategory";
 
